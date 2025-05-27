@@ -65,15 +65,4 @@ These datasets were imported into PostgreSQL using `COPY` or `\copy`.
 - Real-world querying using `SELECT`, `JOIN`, `GROUP BY`, `ORDER BY`, subqueries, aggregate functions, and conditional filtering
 - Demonstrated ability to perform both analytical and operational data tasks
 
----
-
-## 📁 Repository Structure
-
-📦 Online-Bookstore-SQL-Project
-├── 📄 Books.csv
-├── 📄 Customers.csv
-├── 📄 Orders.csv
-├── 📄 Basic_Queries.sql
-├── 📄 Advanced_Queries.sql
-└── 📄 README.md
 
